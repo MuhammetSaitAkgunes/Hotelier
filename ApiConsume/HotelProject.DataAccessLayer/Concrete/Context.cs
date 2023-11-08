@@ -12,7 +12,16 @@ namespace HotelProject.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("YOUR_CONNECTION_CREDINTIALS_GOES_HERE");
+            optionsBuilder.UseSqlServer("server=DESKTOP-EAQ14N5;initial catalog=ApiDb;integrated security=true");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Room>().HasKey(r => r.RoomId);
+            modelBuilder.Entity<Service>().HasKey(s => s.ServiceId);
+            modelBuilder.Entity<Staff>().HasKey(st => st.StaffId);
+            modelBuilder.Entity<Subscribe>().HasKey(sb => sb.SubscribeId);
+            modelBuilder.Entity<Testimonial>().HasKey(t => t.TestimonialId);
         }
 
         public DbSet<Room> Rooms { get; set; }

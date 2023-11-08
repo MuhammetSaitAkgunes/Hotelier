@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhammet akgunes\\source\\repos\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
+    "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhammet akgunes\\source\\repos\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+    "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhammet akgunes\\source\\repos\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "projectName": "HotelProject.EntityLayer",
-        "projectPath": "C:\\Users\\muhammet akgunes\\source\\repos\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\muhammet akgunes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhammet akgunes\\source\\repos\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\msakg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\muhammet akgunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\msakg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,23 +46,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[6.0.24, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[6.0.24, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[6.0.24, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[6.0.24, )"
             }
           },
           "imports": [
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
