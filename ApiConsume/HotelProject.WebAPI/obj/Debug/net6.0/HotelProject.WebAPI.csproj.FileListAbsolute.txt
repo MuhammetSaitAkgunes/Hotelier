@@ -150,3 +150,5 @@ C:\Users\msakg\Source\Repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject
 C:\Users\msakg\Source\Repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject.WebAPI\obj\Debug\net6.0\HotelProject.WebAPI.pdb
 C:\Users\msakg\Source\Repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject.WebAPI\obj\Debug\net6.0\HotelProject.WebAPI.genruntimeconfig.cache
 C:\Users\msakg\Source\Repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject.WebAPI\obj\Debug\net6.0\ref\HotelProject.WebAPI.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\ApiConsume\HotelProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
