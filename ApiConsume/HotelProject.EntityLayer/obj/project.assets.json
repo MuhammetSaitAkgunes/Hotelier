@@ -2020,11 +2020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msakg\\Source\\Repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
       "projectName": "HotelProject.EntityLayer",
-      "projectPath": "C:\\Users\\msakg\\Source\\Repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+      "projectPath": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
       "packagesPath": "C:\\Users\\msakg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msakg\\Source\\Repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\msakg\\source\\repos\\MuhammetSaitAkgunes\\Hotelier\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2094,7 +2094,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
