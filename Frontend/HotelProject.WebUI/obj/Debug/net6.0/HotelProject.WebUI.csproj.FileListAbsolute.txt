@@ -476,3 +476,11 @@ C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.W
 C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.pdb
 C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.genruntimeconfig.cache
 C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\obj\Debug\net6.0\ref\HotelProject.WebUI.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\msakg\source\repos\MuhammetSaitAkgunes\Hotelier\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb

@@ -5,10 +5,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace HotelProject.DataAccessLayer.Concrete
 {
-    public class Context:DbContext
+    public class Context:IdentityDbContext<AppUser, AppRole, int>
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -22,6 +24,16 @@ namespace HotelProject.DataAccessLayer.Concrete
             modelBuilder.Entity<Staff>().HasKey(st => st.StaffId);
             modelBuilder.Entity<Subscribe>().HasKey(sb => sb.SubscribeId);
             modelBuilder.Entity<Testimonial>().HasKey(t => t.TestimonialId);
+
+            // User login için user id alıyor.
+            modelBuilder.Entity<IdentityUserLogin<int>>().HasKey(t => t.UserId);
+
+            // Rol belirlemek için role id alıyor.
+            modelBuilder.Entity<IdentityUserRole<int>>().HasKey(r => r.RoleId);
+
+
+            modelBuilder.Entity<IdentityUserToken<int>>().HasKey(tkn => tkn.UserId);
+
         }
 
         public DbSet<Room> Rooms { get; set; }
